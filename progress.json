@@ -1,5 +1,14 @@
 [
   {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1768941994.631976,
+    "completed_at": 1768941999.864194,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "link-me",
     "started_at": 1768940201.447507,
     "completed_at": 1768940203.218483,
@@ -18,11 +27,11 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1768941994.631976,
-    "completed_at": 1768941999.864194,
+    "exercise_name": "fork-repo",
+    "started_at": 1768979819.585631,
+    "completed_at": 1768979824.620639,
     "comments": [
-      "Great work using .gitignore!"
+      "Great work creating a fork with Github!"
     ],
     "status": "Completed"
   }
