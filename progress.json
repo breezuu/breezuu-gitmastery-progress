@@ -151,5 +151,14 @@
       "You have reset the repository to the correct state!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-revert",
+    "started_at": 1769001539.28789,
+    "completed_at": 1769001542.073162,
+    "comments": [
+      "Good work reverting commits!"
+    ],
+    "status": "Completed"
   }
 ]
