@@ -1,41 +1,5 @@
 [
   {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1768941994.631976,
-    "completed_at": 1768941999.864194,
-    "comments": [
-      "Great work using .gitignore!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1768940201.447507,
-    "completed_at": 1768940203.218483,
-    "comments": [
-      "Great work with using git remote to add an upstream remote!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "push-over",
-    "started_at": 1768941212.319047,
-    "completed_at": 1768941221.174247,
-    "comments": [
-      "Great work pushing changes to the remote!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "fork-repo",
-    "started_at": 1768979819.585631,
-    "completed_at": 1768979824.620639,
-    "comments": [
-      "Great work creating a fork with Github!"
-    ],
-    "status": "Completed"
-  },
-  {
     "exercise_name": "clone-repo",
     "started_at": 1768980197.451759,
     "completed_at": 1768980205.95811,
@@ -81,38 +45,47 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "view-commits",
-    "started_at": 1768996069.716951,
-    "completed_at": 1768996071.781923,
+    "exercise_name": "fork-repo",
+    "started_at": 1768979819.585631,
+    "completed_at": 1768979824.620639,
     "comments": [
-      "Great work in viewing and understanding the diff of a specific commit!"
+      "Great work creating a fork with Github!"
     ],
     "status": "Completed"
   },
   {
-    "exercise_name": "tags-add",
-    "started_at": 1768996773.230794,
-    "completed_at": 1768996775.529337,
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1768941994.631976,
+    "completed_at": 1768941999.864194,
     "comments": [
-      "Great work using git tag to annotate various commits in the repository!"
+      "Great work using .gitignore!"
     ],
     "status": "Completed"
   },
   {
-    "exercise_name": "tags-update",
-    "started_at": 1768996972.177611,
-    "completed_at": 1768996974.456099,
+    "exercise_name": "link-me",
+    "started_at": 1768940201.447507,
+    "completed_at": 1768940203.218483,
     "comments": [
-      "Great work! You have successfully updated the tags to point to the correct commits."
+      "Great work with using git remote to add an upstream remote!"
     ],
     "status": "Completed"
   },
   {
-    "exercise_name": "tags-push",
-    "started_at": 1768997614.33335,
-    "completed_at": 1768997623.983101,
+    "exercise_name": "push-over",
+    "started_at": 1768941212.319047,
+    "completed_at": 1768941221.174247,
     "comments": [
-      "Wonderful! You have successfully synced the local tags with the remote tags!"
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-checkout",
+    "started_at": 1768999892.69361,
+    "completed_at": 1768999895.071659,
+    "comments": [
+      "Great work traversing the revision history!"
     ],
     "status": "Completed"
   },
@@ -135,15 +108,6 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "sensors-checkout",
-    "started_at": 1768999892.69361,
-    "completed_at": 1768999895.071659,
-    "comments": [
-      "Great work traversing the revision history!"
-    ],
-    "status": "Completed"
-  },
-  {
     "exercise_name": "sensors-reset",
     "started_at": 1769001012.924815,
     "completed_at": 1769001015.404018,
@@ -158,6 +122,51 @@
     "completed_at": 1769001542.073162,
     "comments": [
       "Good work reverting commits!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1768996773.230794,
+    "completed_at": 1768996775.529337,
+    "comments": [
+      "Great work using git tag to annotate various commits in the repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-push",
+    "started_at": 1768997614.33335,
+    "completed_at": 1768997623.983101,
+    "comments": [
+      "Wonderful! You have successfully synced the local tags with the remote tags!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-update",
+    "started_at": 1768996972.177611,
+    "completed_at": 1768996974.456099,
+    "comments": [
+      "Great work! You have successfully updated the tags to point to the correct commits."
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1768996069.716951,
+    "completed_at": 1768996071.781923,
+    "comments": [
+      "Great work in viewing and understanding the diff of a specific commit!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1769065646.411175,
+    "completed_at": 1769065648.136667,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
     ],
     "status": "Completed"
   }
